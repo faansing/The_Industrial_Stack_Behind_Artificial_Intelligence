@@ -1,18 +1,16 @@
 # The Industrial Stack Behind Artificial Intelligence 2026-2036
 
-*[Click Here to Pre-Read the Full Report](https://drive.google.com/file/d/1C9pkJpx4VWWTtyr_P-kmLBwRA8guGXFj/view?usp=sharing)* 
+*[Click Here to Pre-Read the Full Report](https://drive.google.com/file/d/1lpmBeP-Htdm7yyF1sh-sfpsbm4TTFIMi/view?usp=sharing)* 
 
 
 ## **5 Key Takeaways**
 
-1. **Rent stays upstream.** Durable economic rent concentrates in four places: EUV lithography (ASML), leading-edge foundry (TSMC), EDA tools, and the leading accelerator ecosystem (NVIDIA). These are the only layers where barriers keep rising.
+1. Durable profits concentrate in just four upstream players: ASML, TSMC, EDA tools, and NVIDIA (with clear limits on the last one).
 
-2. **Power is a constraint, not a rent pool.** AI's massive electricity and infrastructure demand is real and binding, but generation, grid, storage, and power electronics mostly deliver commodity or cyclical returns. Reproducible capacity does not create durable pricing power.
+2. Power, grid, data centers, and most energy infrastructure are important but will not deliver lasting high returns — they are cyclical or commoditizing.
 
-3. **CATL is the lone exception.** In the entire physical/energy stack, only the battery and storage leader (CATL) earns genuine oligopoly rent through concentration, technology differentiation, and qualification barriers.
+3. HBM memory is highly profitable now but will likely return to normal boom-bust memory cycles after 2028 capacity arrives.
 
-4. **Global division is clear.** Rent is captured by Europe (lithography), ROC (Taiwan, foundry), US (architecture/software), and Korea (memory). PRC (China) excels in scale, deployment, and batteries but remains structurally constrained at the frontier.
+4. China dominates in volume and scale (solar, batteries, mature chips) but struggles to convert that into strong profits in most areas.
 
-5. **Quality ≠ Return.** The model ranks business durability, not investment performance. Even strong moats can deliver ordinary returns if expectations are already priced in. Valuation discipline is required.
-
-
+5. Judge every AI-related business by three tests: real barriers, actual economics through the cycle, and how long the advantage can last.
