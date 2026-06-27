@@ -1,16 +1,16 @@
 # The Industrial Stack Behind Artificial Intelligence 2026-2036
 
-*[Click Here to Pre-Read the Full Report](https://drive.google.com/file/d/1lpmBeP-Htdm7yyF1sh-sfpsbm4TTFIMi/view?usp=sharing)* 
+*[Click Here to Pre-Read the Full Report](https://drive.google.com/file/d/1vwhxmUKKFxJffw4DBXeOSoWSa0BKSP5F/view?usp=sharing)* 
 
 
 ## **5 Key Takeaways**
 
-1. Durable profits concentrate in just four upstream players: ASML, TSMC, EDA tools, and NVIDIA (with clear limits on the last one).
+1. The biggest AI spending (power, grid, memory, data centers) is mostly going into layers where capital can eventually fix the shortages, so long-term returns there will likely normalize or get crushed. Real durable money is in the narrow spots that are genuinely hard to copy.
 
-2. Power, grid, data centers, and most energy infrastructure are important but will not deliver lasting high returns — they are cyclical or commoditizing.
+2. EUV lithography, TSMC at leading edge, and EDA are the real structural winners with rising barriers. These are the ones worth owning through cycles because their moats get stronger as they make more money.
 
-3. HBM memory is highly profitable now but will likely return to normal boom-bust memory cycles after 2028 capacity arrives.
+3. The accelerator business (NVIDIA-type) is excellent but already priced for perfection. It only makes sense as an investment if you buy at a price that gives room for the inevitable custom silicon push and any drop in margins.
 
-4. China dominates in volume and scale (solar, batteries, mature chips) but struggles to convert that into strong profits in most areas.
+4. HBM, transformers, and grid equipment are cyclical trades at best. Buy when shortages are forming and lead times stretch, sell when new capacity starts coming online. Don't treat them as permanent holds.
 
-5. Judge every AI-related business by three tests: real barriers, actual economics through the cycle, and how long the advantage can last.
+5. Revenue growth and strategic importance in AI infrastructure don't equal good shareholder returns. A lot of the physical buildout looks like past overbuilt cycles (solar, fiber, utilities) where capital flooded in and destroyed economics. Focus on where the barriers actually rise with the spending.
